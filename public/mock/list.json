@@ -1,0 +1,275 @@
+[
+{
+  "id":1,
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Women Artists 'Step Up' in Grammy Nominations"
+    },
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    },
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    }
+  ]
+},
+{
+  "id":2,
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Women Artists 'Step Up' in Grammy Nominations"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    },
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    }
+  ]
+},
+{
+  "id": 3,
+  "success": true,
+  "data": [
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    },
+    {
+      "id": 1,
+      "title": "Women Artists 'Step Up' in Grammy Nominations"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    }
+  ]
+},
+{
+  "id": 4,
+  "success": true,
+  "data": [
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    },
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    }
+  ]
+},
+{
+  "id": 5,
+  "success": true,
+  "data": [
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 1,
+      "title": "Women Artists 'Step Up' in Grammy Nominations"
+    },
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    }
+  ]
+},
+{
+  "id": 6,
+  "success": true,
+  "data": [
+    {
+      "id": 6,
+      "title": "Ask a Teacher: Must and Have To"
+    },
+    {
+      "id": 7,
+      "title": "Vice, the Movie, Leads Golden Globe Nominations"
+    },
+    {
+      "id": 8,
+      "title": "Who Is the Woman in Huawei Arrest?"
+    },
+    {
+      "id": 9,
+      "title": "Cuba Announces Full Internet Access for Mobile Phones"
+    },
+    {
+      "id": 10,
+      "title": "From Honduras to the US, a Migrant Story"
+    },
+    {
+      "id": 5,
+      "title": "'The Furnished Room,' by O. Henry"
+    },
+    {
+      "id": 4,
+      "title": "How a Cat’s Sandpapery Tongue Deep Cleans"
+    },
+    {
+      "id": 3,
+      "title": "‘Living Coral’: 2019 Color of the Year Comes from the Sea"
+    },
+    {
+      "id": 2,
+      "title": "Trump Announces New Attorney General and UN Ambassador Picks"
+    },
+    {
+      "id": 1,
+      "title": "Women Artists 'Step Up' in Grammy Nominations"
+    }
+  ]
+}
+  
+]
